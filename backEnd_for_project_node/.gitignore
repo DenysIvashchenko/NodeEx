@@ -1,3 +1,4 @@
 # ignore node_moules
 
 /node_modules
+/.idea
