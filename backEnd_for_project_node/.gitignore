@@ -1,4 +1,4 @@
-# ignore node_moules
+# ignore node_modules
 
 /node_modules
 /.idea
